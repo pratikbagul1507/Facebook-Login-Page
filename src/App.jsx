@@ -1,9 +1,9 @@
-import React from 'react'
 import Home from './homepage/Home'
 import { Route, Routes } from 'react-router-dom'
-import Register from './register/register'
+import Register from './register/Register'
 import Welcome from './welcomepage/Welcome'
 import ForgotPassword from './forgotpassword/ForgotPassword'
+
 
 const App = () => {
   return (
