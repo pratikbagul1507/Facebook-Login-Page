@@ -1,0 +1,30 @@
+{
+  "facebook": [
+    {
+      "username": "xyz",
+      "password": "123",
+      "id": "tuh8d95ZyWU"
+    },
+    {
+      "username": "pratik",
+      "password": "3444",
+      "id": "4C3FkYQ60IU"
+    },
+    {
+      "username": "sagar",
+      "password": "54321",
+      "id": "yIpr02gt38c"
+    },
+    {
+      "username": "pratik",
+      "password": "Pratik$12",
+      "id": "3yykHN2uNVk"
+    },
+    {
+      "username": "manoj",
+      "password": "Manoj@123",
+      "id": "W79Q0Ojyshw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
